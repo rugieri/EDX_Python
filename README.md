@@ -1,2 +1,2 @@
 # EDX_Python
-Codes from EDX CS50W - Python Course
+Codes from Harvard-EDX CS50W - Python Course
